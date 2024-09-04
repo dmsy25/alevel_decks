@@ -5,6 +5,6 @@ The science decks include lots of short exam questions from a range of boards.
 
 Known Issues:
 
-CHEMISTRY: Some drawn mechanisms may have spelling errors (eg, _neutrophilic_ rather than _nucleophilic_)
+CHEMISTRY: Some drawn mechanisms may have spelling errors (eg, _neutrophilic_ rather than _nucleophilic_). These are present in the images themselves so they're not easy to fix.
 
 Please raise any issues you find and I will sort them out as soon as I can.
