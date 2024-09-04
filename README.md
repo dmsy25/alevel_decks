@@ -7,7 +7,7 @@ The science decks include lots of short exam questions from a range of boards an
 
 **TO DOWNLOAD**: Press on the green button that says '<> Code' and click 'Download Zip'.
 
-**TO IMPORT TO ANKI**: Extract the ZIP to some safe folder. Double click on the deck you wish to import and import it to Anki.
+**TO IMPORT TO ANKI**: Extract the ZIP to some safe folder. Open the folder and double click on the deck you wish to import and import it to Anki.
 
 Known Issues:
 
