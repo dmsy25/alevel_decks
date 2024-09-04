@@ -13,4 +13,6 @@ Known Issues:
 
 CHEMISTRY: Some drawn mechanisms may have spelling errors (eg, _neutrophilic_ rather than _nucleophilic_). These are present in the images themselves so they're not easy to fix.
 
+General: Minor typos that don't change meaning
+
 Please raise any issues you find and I will sort them out as soon as I can.
